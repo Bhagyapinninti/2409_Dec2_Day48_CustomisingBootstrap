@@ -1,0 +1,25 @@
+
+$primary:  deeppink;
+$secondary:  darkolivegreen;
+$success:   orange;
+$info:     dodgerblue;
+$warning:  yellowgreen ;
+$danger:   orchid  ;
+$light:   red;
+$dark:  darkblue;
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body{
+    background-color: indigo;
+    margin: 20px;
+    
+}
+
+
+
+
